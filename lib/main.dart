@@ -94,7 +94,7 @@ class _YogurtListScreenState extends State<YogurtListScreen> {
               decoration: const InputDecoration(
                 hintText: 'Enter quantity',
               ),
-              keyboardType: TextInputType.number, // Mover aquí
+              keyboardType: TextInputType.number,
             ),
           ),
           ElevatedButton(
